@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- Studying:
+  - Computer Network Technologist
+  - Software Engineering
 
 - 🌱 I’m currently learning Python, Java, JavaScript and HTML
 
