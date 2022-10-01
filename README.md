@@ -4,7 +4,7 @@
   - Computer Network Technologist
   - Software Engineering
 
-- 🌱 I’m currently learning Python, Java, JavaScript
+- 🌱 I’m currently learning Python, Java, JavaScript, HTML, CSS and Php
 
 - 📫 How to reach me: pedrolucas500@hotmail.com
 - Pronouns: Ele/Dele
