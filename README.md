@@ -4,7 +4,7 @@ Passionate about technology and logical thinking
 
 ### Tech Stack 🛠️
 
-Technologies I use in my projects:
+Technologies that I study and use in my projects:
 
 <div>
   <img align="center" alt="yas-Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
