@@ -1,6 +1,6 @@
 <h2>Hello, I'm Pedro, front-end programmer looking for a full stack developer</h2>
 
-Passionate about technology and logical thinking
+Passionate about technology and algorithms.
 
 ### Tech Stack 🛠️
 
